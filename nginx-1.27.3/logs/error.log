@@ -1,0 +1,37 @@
+2024/12/08 17:17:04 [error] 12584#3308: *1 CreateFile() "C:\nginx-1.27.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/12/08 17:33:10 [warn] 12688#13248: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.27.3/conf/nginx.conf:126
+2024/12/08 17:33:31 [warn] 11244#6012: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.27.3/conf/nginx.conf:126
+2024/12/08 17:33:31 [notice] 11244#6012: signal process started
+2024/12/08 17:33:31 [warn] 3888#12684: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.27.3/conf/nginx.conf:126
+2024/12/08 17:36:04 [warn] 11980#3812: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.27.3/conf/nginx.conf:126
+2024/12/08 17:37:23 [notice] 6084#11788: signal process started
+2024/12/08 17:40:15 [notice] 3772#6992: signal process started
+2024/12/08 17:42:13 [error] 8072#3696: *10 CreateFile() "C:/nginx-1.27.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/"
+2024/12/08 17:43:09 [error] 8072#3696: *17 CreateFile() "C:/nginx-1.27.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/"
+2024/12/08 18:48:22 [notice] 2184#12728: signal process started
+2024/12/08 20:49:18 [error] 6220#7656: *9 CreateFile() "C:/nginx-1.27.3/html/WebLab4/image1.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /WebLab4/image1.jpg HTTP/2.0", host: "localhost", referrer: "https://localhost/WebLab4/"
+2024/12/08 20:49:30 [error] 6220#7656: *9 CreateFile() "C:/nginx-1.27.3/html/WebLab4/image1.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /WebLab4/image1.jpg HTTP/2.0", host: "localhost", referrer: "https://localhost/WebLab4/"
+2024/12/08 20:51:37 [notice] 564#10112: signal process started
+2024/12/08 20:52:50 [notice] 5536#12452: signal process started
+2024/12/08 20:53:09 [error] 12800#6808: *41 "C:/nginx-1.27.3/html/WebLab4/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /WebLab4/ HTTP/2.0", host: "localhost"
+2024/12/08 20:53:17 [error] 12800#6808: *41 "C:/nginx-1.27.3/html/WebLab4/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /WebLab4/ HTTP/2.0", host: "localhost"
+2024/12/08 20:54:18 [notice] 10520#516: signal process started
+2024/12/08 20:55:17 [notice] 11144#1932: signal process started
+2024/12/08 20:58:26 [notice] 7736#8656: signal process started
+2024/12/08 20:59:30 [notice] 5964#5896: signal process started
+2024/12/08 21:40:33 [notice] 11304#10576: signal process started
+2024/12/08 21:40:39 [error] 12320#10492: *92 CreateFile() "C:/nginx-1.27.3/html/lab4/image1.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /lab4/image1.jpg HTTP/2.0", host: "localhost", referrer: "https://localhost/lab4/"
+2024/12/08 21:40:39 [error] 12320#10492: *92 CreateFile() "C:/nginx-1.27.3/html/lab4/image20.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /lab4/image20.jpg HTTP/2.0", host: "localhost", referrer: "https://localhost/lab4/"
+2024/12/08 21:41:13 [notice] 12484#8504: signal process started
+2024/12/08 21:41:16 [error] 6228#9320: *99 CreateFile() "C:/nginx-1.27.3/html/lab4/image20.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /lab4/image20.jpg HTTP/2.0", host: "localhost", referrer: "https://localhost/lab4/"
+2024/12/08 21:47:29 [notice] 6476#3668: signal process started
+2024/12/08 21:48:03 [notice] 8708#6988: signal process started
+2024/12/08 21:50:01 [notice] 2628#13044: signal process started
+2024/12/08 21:52:57 [notice] 7216#10308: signal process started
+2024/12/08 21:53:21 [notice] 12956#4508: signal process started
+2024/12/08 21:54:19 [notice] 8704#6896: signal process started
+2024/12/08 21:55:07 [notice] 4120#9304: signal process started
+2024/12/08 21:55:31 [notice] 6796#7952: signal process started
+2024/12/08 21:57:25 [notice] 6600#7460: signal process started
+2024/12/08 22:02:34 [notice] 5052#3264: signal process started
+2024/12/08 22:04:09 [notice] 12552#13244: signal process started
